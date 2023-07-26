@@ -61,7 +61,9 @@ Ruby
 
 ### Key Features <a name="key-features"></a>
 
-- DRY.
+- Decodes a morse character a word and a sentence
+- Returns the decoded message in uppercase
+- Returns the decoded message with spaces between words and characters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
